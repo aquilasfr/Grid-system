@@ -1,0 +1,119 @@
+.item {
+  background-color: cornflowerblue;
+  height: 30px;
+  margin: 5px;
+}
+
+.container {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;  
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Small */
+.sm-12 {
+  width: 100%;
+}
+
+.sm-11 {
+  width: 91.66%;
+}
+
+.sm-10 {
+  width: 83.33;
+}
+
+.sm-9 {
+  width: 75%;
+}
+
+.sm-8 {
+  width: 66.66%;
+}
+
+.sm-7 {
+  width: 58.33%;
+}
+
+.sm-6 {
+  width: 50%;
+}
+
+.sm-5 {
+  width: 41.66%;
+}
+
+.sm-4 {
+  width: 33.33%;
+}
+
+.sm-3 {
+  width: 25%;
+}
+
+.sm-2 {
+  width: 16.66%;
+}
+
+.sm-1 {
+  width: 8.33%;
+}
+
+
+/* Medium */
+.md {
+}
+
+/* Large */
+.lg-12 {
+  width: 100%;
+}
+
+.lg-11 {
+  width: 91.66%;
+}
+
+.lg-10 {
+  width: 83.33;
+}
+
+.lg-9 {
+  width: 75%;
+}
+
+.lg-8 {
+  width: 66.66%;
+}
+
+.lg-7 {
+  width: 58.33%;
+}
+
+.lg-6 {
+  width: 50%;
+}
+
+.lg-5 {
+  width: 41.66%;
+}
+
+.lg-4 {
+  width: 33.33%;
+}
+
+.lg-3 {
+  width: 25%;
+}
+
+.lg-2 {
+  width: 16.66%;
+}
+
+.lg-1 {
+  width: 8.33%;
+}
